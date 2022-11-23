@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Run Interop.Excel</Text>
+    <Description>Some description for RAB_Session 03_Bonus</Description>
+    <Assembly>RAB_Session 03_Bonus.dll</Assembly>
+    <FullClassName>RAB_Session_03_Bonus.CmdInteropExcel</FullClassName>
+    <ClientId>678dcd30-9503-4f26-a21c-bd965f90a113</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Run EPPlus</Text>
+    <Description>Some description for RAB_Session 03_Bonus</Description>
+    <Assembly>RAB_Session 03_Bonus.dll</Assembly>
+    <FullClassName>RAB_Session_03_Bonus.CmdEPPlus</FullClassName>
+    <ClientId>678dcd30-9503-4f26-a21c-bd965f90a245</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  
+</RevitAddIns>

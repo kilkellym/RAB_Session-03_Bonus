@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAB_Session 03_Bonus", "RAB_Session 03_Bonus.csproj", "{44311E90-F768-4095-944E-B48564EF19D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44311E90-F768-4095-944E-B48564EF19D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44311E90-F768-4095-944E-B48564EF19D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44311E90-F768-4095-944E-B48564EF19D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44311E90-F768-4095-944E-B48564EF19D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD154BD-D3CE-42B2-A2AC-5764434625B6}
+	EndGlobalSection
+EndGlobal
